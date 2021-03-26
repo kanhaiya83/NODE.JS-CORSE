@@ -1,4 +1,4 @@
-
+console.log("hello")
 
 const weatherFrom=document.querySelector("form")
 const searchBtn=document.querySelector("button")
